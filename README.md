@@ -26,3 +26,5 @@ You can also change the path on the BatchConfig class if you'd like:
 **Depending on the size of your files it may take some time to finish printing everything into the console.
 I tested it with 2,381,400 different records and it took around 20 minutes to finish but feel free to try to break it.**
 
+++I didnt add many validations so please make sure the log files format is correct otherwise app is gonna break XD**
+
