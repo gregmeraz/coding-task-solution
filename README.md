@@ -1,5 +1,5 @@
 # Coding-task-solution
-spring batch application that orders N log files by date
+This is a spring batch application that orders N log files by date and outputs its result to the console
 
 ## Requirements
 Java 11 or later
